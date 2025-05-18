@@ -1,5 +1,7 @@
 # Resumo: Capítulo 18 - A situação do jogo
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - White recebe uma pista de um assessor do governador de Oklahoma sobre um presidiário chamado Burt Lawson que afirmava ter conhecimento sobre os assassinatos dos Osage.
 - Lawson confessa ter colocado a bomba que explodiu a casa de Bill e Rita Smith, alegando que foi contratado por William Hale e Ernest Burkhart.
@@ -60,3 +62,5 @@
 - Atraiu Roan para um cânion, ofereceu-lhe uísque e atirou em sua nuca
 - Refere-se ao assassinato como "a situação do jogo"
 - Demonstra racismo ao comentar que os brancos de Oklahoma não davam mais importância a matar um índio "do que em 1724" 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

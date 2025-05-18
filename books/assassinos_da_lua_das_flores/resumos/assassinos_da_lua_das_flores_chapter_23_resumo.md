@@ -1,5 +1,7 @@
 # Resumo: Capítulo 23 - Um caso em aberto
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - O autor reflete sobre como a história revela o que antes estava oculto, permitindo que vejamos o que Mollie não podia ver sobre seu marido, ou o que White não percebeu sobre as confissões falsas.
 - Apesar da condenação de Hale e seus comparsas, havia lacunas na investigação do Bureau, especialmente em relação a quem sequestrou McBride ou atirou W.W. Vaughan do trem em alta velocidade.
@@ -65,3 +67,5 @@
 - Tentou roubar 10 mil dólares que Bigheart devia a Vaughan
 - Considerado pelo Bureau como "muito chegado" a Hale e possivelmente envolvido em assassinatos
 - Mudou-se para o Kansas em 1925, durante a investigação dos assassinatos 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

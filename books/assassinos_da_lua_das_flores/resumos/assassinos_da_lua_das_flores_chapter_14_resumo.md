@@ -1,5 +1,7 @@
 # Resumo: Capítulo 14 - Últimas palavras
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - Tom White investiga se Bill Smith, marido de Rita (irmã de Mollie) e vítima da explosão, havia revelado informações sobre os assassinatos antes de morrer.
 - White entrevista a enfermeira que cuidou de Bill Smith no hospital, que relata que ele resmungava nomes em seu sono agitado.
@@ -25,3 +27,5 @@
 
 ## Novos personagens:
 - Não há novos personagens significativos introduzidos neste capítulo, que foca nas revelações sobre personagens já apresentados e no sistema de corrupção generalizada envolvendo a administração das fortunas Osage. 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

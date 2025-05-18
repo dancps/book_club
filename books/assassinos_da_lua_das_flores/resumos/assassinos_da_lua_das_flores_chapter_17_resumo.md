@@ -1,5 +1,7 @@
 # Resumo: Capítulo 17 - O artista do gatilho, o arrombador de cofres e o dinamitador
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - No verão de 1925, Tom White garante a Hoover que reunirá provas suficientes para incriminar Hale e seus cúmplices.
 - White percebe a crescente ansiedade entre os Osage, muitos dos quais estão vendendo suas casas e mudando-se para lugares distantes, inclusive para outros países (fenômeno posteriormente chamado de "diáspora" Osage).
@@ -37,3 +39,5 @@
 - Asa Kirby: Marginal de dente de ouro que trabalhou com Grammer e foi identificado como o "dinamitador" que projetou a bomba que matou os Smith. Foi morto durante uma tentativa de roubo em uma joalheria, em uma armadilha aparentemente orquestrada por Hale.
 
 - Curley Johnson: Comparsa do assaltante Blackie Thompson, que segundo Gregg sabia tudo sobre a explosão que matou Smith. Morreu depois de tomar uma bebida envenenada. 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

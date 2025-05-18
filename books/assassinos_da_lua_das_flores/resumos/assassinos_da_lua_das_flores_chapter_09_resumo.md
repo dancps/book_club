@@ -1,5 +1,7 @@
 # Resumo: Capítulo 9 - Os Caubóis dissimulados
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - Tom White assume a direção da unidade de campo de Oklahoma City em julho de 1925 e começa a revisar os arquivos sobre os assassinatos dos Osages.
 - Ele percebe que os assassinatos foram planejados por alguém calculista, que contratou asseclas para executar diferentes métodos de assassinato ao longo de anos.
@@ -49,3 +51,5 @@
 ### Agente secreto experiente
 - Aparência de vendedor de seguros
 - Ex-profissional do ramo de seguros 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

@@ -1,5 +1,7 @@
 # Resumo: Capítulo 12 - Um deserto de espelhos
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - Tom White começa a suspeitar que há um espião entre seus investigadores depois que um advogado local demonstra conhecer detalhes internos do caso.
 - Relatórios confidenciais do Bureau estavam sendo vazados para pessoas não autorizadas.
@@ -29,3 +31,6 @@
 - Inicialmente afirmou conhecer a identidade do "terceiro homem" visto com Bryan e Anna
 - Revelou posteriormente que foi contratado por Hale não para investigar o assassinato, mas para fabricar um álibi para Bryan
 - Capturado pelos agentes após cometer um assalto em Tulsa 
+
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

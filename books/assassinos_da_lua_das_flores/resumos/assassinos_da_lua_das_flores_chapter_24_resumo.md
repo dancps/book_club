@@ -1,5 +1,7 @@
 # Resumo: Capítulo 24 - Em dois mundos
 
+[← Capítulo 23](assassinos_da_lua_das_flores_chapter_23_resumo.md) | [Indice](README.md) | [Capítulo 25 →](assassinos_da_lua_das_flores_chapter_25_resumo.md)
+
 ## Principais acontecimentos:
 - Em maio de 2013, o autor assiste a uma exibição em vídeo do balé "Wahzhazhe" no Constantine Theater em Pawhuska, uma obra que narra a história completa dos Osage, incluindo o período do Reinado do Terror.
 - O balé retrata os Osage vivendo "em dois mundos", lutando para manter suas tradições enquanto vivem numa sociedade predominantemente não indígena.
@@ -70,3 +72,5 @@
 - Insinuou-se na vida de Hattie para chantageá-la com informações sobre seu envolvimento no assassinato
 - Recusou-se a permitir que Hattie fosse hospitalizada quando ela adoeceu
 - Roubava dinheiro de Hattie quando ela estava "sob o efeito de narcóticos" 
+---
+[← Capítulo 23](assassinos_da_lua_das_flores_chapter_23_resumo.md) | [Indice](README.md) | [Capítulo 25 →](assassinos_da_lua_das_flores_chapter_25_resumo.md)

@@ -1,5 +1,7 @@
 # Resumo: Capítulo 5 - Os discípulos do diabo
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - A família de Mollie oferece uma recompensa de 2 mil dólares por informações sobre o assassinato de Anna, enquanto a família Whitehorn oferece 2,5 mil pelo caso de Charles Whitehorn.
 - William Hale também promete uma recompensa, declarando que "temos de acabar com essa história sanguinária".
@@ -51,3 +53,5 @@
 - Descrito como "grisalho e de bom coração"
 - Enviado a Washington para pedir ajuda federal
 - Brutalmente assassinado na capital americana 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

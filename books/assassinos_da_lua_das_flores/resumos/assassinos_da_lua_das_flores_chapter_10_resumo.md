@@ -1,5 +1,7 @@
 # Resumo: Capítulo 10 - Eliminar o impossível
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - Os agentes da equipe de Tom White chegam ao condado de Osage disfarçados: dois como criadores de gado do Texas, um como corretor de seguros e John Wren como curandeiro indígena.
 - White começa a investigação tentando confirmar metodicamente o álibi de cada suspeito, seguindo o princípio de Sherlock Holmes: "depois que se elimina o impossível, o que restar, seja lá o que for, por mais improvável que seja, deve ser a verdade".
@@ -45,3 +47,5 @@
 - Recrutado como informante pelos agentes federais
 - Amigo de Rose Osage e outros suspeitos
 - Havia fugido do condado após agredir uma autoridade da Lei Seca 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

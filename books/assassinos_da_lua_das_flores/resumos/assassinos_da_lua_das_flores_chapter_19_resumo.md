@@ -1,5 +1,7 @@
 # Resumo: Capítulo 19 - Traidor do próprio sangue
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - As prisões e revelações sobre os crimes dominam a imprensa nacional, que fala de "uma quadrilha evidentemente bem organizada, diabólica em sua brutalidade".
 - Além dos casos já conhecidos, White e seus homens descobrem que Hale também se beneficiou dos assassinatos de George Bigheart e Joe Bates, ambos envenenados.
@@ -79,3 +81,5 @@
 - Advogado conhecido por Ernest Burkhart
 - Assume a defesa de Ernest quando este decide confessar
 - Apresenta a declaração de culpa de Ernest ao tribunal 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

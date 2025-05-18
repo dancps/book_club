@@ -1,5 +1,7 @@
 # Resumo: Capítulo 25 - O manuscrito perdido
 
+[← Capítulo 24](assassinos_da_lua_das_flores_chapter_24_resumo.md) | [Indice](README.md) | [Capítulo 26 →](assassinos_da_lua_das_flores_chapter_26_resumo.md)
+
 ## Principais acontecimentos:
 - Em junho de 2015, o autor retorna à Nação Osage a pedido de Kathryn Red Corn para observar um novo fenômeno na região: dezenas de torres eólicas com 130 metros de altura instaladas na pradaria.
 - Mais de cem anos após a descoberta de petróleo, uma nova fonte de energia está transformando a região, vista pelos Osage como uma ameaça à sua reserva subterrânea.
@@ -46,3 +48,5 @@
 - Sobrinha-trineta de Mary Lewis
 - Compilou o manuscrito sobre o assassinato de Lewis, baseando-se em histórias de sua bisavó e em duas décadas de pesquisas
 - Deixou uma cópia do manuscrito na biblioteca pública de Pawhuska 
+---
+[← Capítulo 24](assassinos_da_lua_das_flores_chapter_24_resumo.md) | [Indice](README.md) | [Capítulo 26 →](assassinos_da_lua_das_flores_chapter_26_resumo.md)

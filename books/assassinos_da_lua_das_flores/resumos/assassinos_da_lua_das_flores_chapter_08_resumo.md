@@ -1,5 +1,7 @@
 # Resumo: Capítulo 8 - O Departamento da Amoralidade
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - Em 1925, Tom White, agente especial encarregado da unidade de campo do Bureau of Investigation em Houston, é convocado para uma reunião urgente em Washington com J. Edgar Hoover.
 - O capítulo apresenta a história e o perfil de Tom White, ex-Texas Ranger que trabalhara perseguindo criminosos no Velho Oeste antes de ingressar no Bureau em 1917.
@@ -44,3 +46,5 @@
 - Procurador-geral nomeado por Calvin Coolidge em 1924
 - Concluiu que uma força policial nacional era necessária, mas precisava ser reformulada
 - Nomeou Hoover como diretor interino do Bureau 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

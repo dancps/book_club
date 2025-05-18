@@ -1,5 +1,7 @@
 # Resumo: Capítulo 16 - Pelo aperfeiçoamento da agência
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - White e seus agentes começam a sentir progresso na investigação, embora ainda enfrentem o desafio de encontrar provas concretas contra Hale.
 - Um relatório dos agentes revela a extensa rede de influência e corrupção controlada por Hale, incluindo:
@@ -32,4 +34,6 @@
 - James e David Shoun: Os irmãos médicos mencionados em capítulos anteriores (referência indireta)
 
 ## Novos personagens:
-- Frederick Winslow Taylor: Engenheiro industrial cujas teorias de administração científica influenciaram Hoover (mencionado como referência contextual, não como personagem ativo na narrativa) 
+- Frederick Winslow Taylor: Engenheiro industrial cujas teorias de administração científica influenciaram Hoover (mencionado como referência contextual, não como personagem ativo na narrativa)
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md) 

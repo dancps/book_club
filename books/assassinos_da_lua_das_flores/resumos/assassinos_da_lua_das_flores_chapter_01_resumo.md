@@ -64,4 +64,4 @@
 
 ---
 
-[← Voltar para índice de resumos](README.md) | [Capítulo 2 →](assassinos_da_lua_das_flores_chapter_02_resumo.md) 
+[← Indice](README.md) | [Capítulo 2 →](assassinos_da_lua_das_flores_chapter_02_resumo.md) 

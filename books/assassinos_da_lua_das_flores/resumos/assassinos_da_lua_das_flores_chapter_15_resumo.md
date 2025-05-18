@@ -1,5 +1,7 @@
 # Resumo: Capítulo 15 - A face oculta
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - Tom White investiga como William Hale se tornou beneficiário da apólice de seguro de vida de Henry Roan no valor de 25 mil dólares, quando Roan apareceu com uma bala na nuca em 1923.
 - White descobre que Hale havia tomado a iniciativa de fazer o seguro, e chegou a dizer ao corretor de seguros que era "como fisgar peixes num barril".
@@ -30,3 +32,5 @@
 
 ## Novos personagens:
 - Roy Bunch: Homem que teve um caso com a viúva de Henry Roan e que Hale tentou incriminar pelo assassinato 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

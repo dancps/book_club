@@ -1,5 +1,7 @@
 # Resumo: Capítulo 22 - Terras fantasmas
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - O capítulo avança para o presente, mostrando como o tempo transformou a região dos Osage, com o fim do boom do petróleo, o desaparecimento das cidades prósperas e o declínio econômico.
 - Pawhuska é uma das poucas cidades que sobreviveram, com 3,6 mil habitantes, e permanece como capital da Nação Osage, que ratificou uma nova Constituição em 2006.
@@ -59,3 +61,5 @@
 - Como o irmão, foi estigmatizada pelo crime do pai
 - Tornou-se "paranoica" segundo relatos, mudando frequentemente de endereço e telefone
 - Demonstrou pouco interesse em ver Ernest após sua libertação 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

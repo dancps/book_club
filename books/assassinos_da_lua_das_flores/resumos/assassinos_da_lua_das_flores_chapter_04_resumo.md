@@ -1,5 +1,7 @@
 # Resumo: Capítulo 4 - Reserva subterrânea
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - História da trajetória dos Osages, que possuíam grande parte da região central dos EUA e foram gradualmente deslocados de suas terras.
 - Thomas Jefferson encontrou-se com chefes Osages na Casa Branca, chamando-os de "filhos" e prometendo proteção, mas logo depois os forçou a ceder territórios.
@@ -44,3 +46,6 @@
 ### John Florer
 - Pioneiro que abriu o primeiro entreposto comercial em Gray Horse
 - Um dos primeiros a descobrir petróleo na reserva 
+
+---
+[← Capítulo 3](assassinos_da_lua_das_flores_chapter_03_resumo.md) | [Indice](README.md) | [Capítulo 5 →](assassinos_da_lua_das_flores_chapter_05_resumo.md)

@@ -1,6 +1,6 @@
 # Resumo: Capítulo 26 - A voz do sangue
 
-[← Capítulo 25](assassinos_da_lua_das_flores_chapter_25_resumo.md) | [Voltar para índice de resumos](README.md)
+[← Capítulo 25](assassinos_da_lua_das_flores_chapter_25_resumo.md) | [Indice](README.md)
 
 ## Principais acontecimentos:
 - O autor pesquisa em arquivos históricos em Fort Worth e encontra um livro de registros do Escritório de Assuntos Indígenas que listava os curadores dos osages durante o "Reinado do Terror".
@@ -51,4 +51,4 @@
 
 ---
 
-[← Capítulo 25](assassinos_da_lua_das_flores_chapter_25_resumo.md) | [Voltar para índice de resumos](README.md) 
+[← Capítulo 25](assassinos_da_lua_das_flores_chapter_25_resumo.md) | [Indice](README.md) 

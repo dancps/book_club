@@ -1,5 +1,7 @@
 # Resumo: Capítulo 13 - O filho do carrasco
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - O capítulo apresenta a história de vida de Tom White, explorando suas origens e o que o levou a se tornar um homem da lei.
 - Tom nasceu em 1881, filho de Robert Emmett White, que em 1888 foi eleito xerife do condado de Travis, no Texas.
@@ -48,3 +50,5 @@
 ### Coley White
 - Outro irmão de Tom
 - Seguiu mais de perto os passos do pai, tornando-se xerife do condado de Travis 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

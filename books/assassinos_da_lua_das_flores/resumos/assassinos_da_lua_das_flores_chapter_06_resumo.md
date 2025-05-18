@@ -1,5 +1,7 @@
 # Resumo: Capítulo 6 - O Olmo do Milhão de Dólares
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - O capítulo descreve os leilões de arrendamento de terras dos Osages para exploração de petróleo, que ocorriam quatro vezes por ano.
 - Barões do petróleo como E. W. Marland, Bill Skelly, Harry Sinclair, Frank Phillips e outros compareciam a estes leilões.
@@ -47,3 +49,5 @@
 ### Bacon Rind
 - Chefe Osage que denunciou a exploração dos brancos
 - Declarou que os brancos tinham empurrado os Osages para "um fim de mundo" pensando que a terra não tinha valor 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)

@@ -1,5 +1,7 @@
 # Resumo: Capítulo 21 - A Estufa
 
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+
 ## Principais acontecimentos:
 - Tom White administra a penitenciária de Leavenworth, apelidada de "Estufa" devido às temperaturas extremas que chegavam a 46°C no verão.
 - White encontra figuras de seu passado entre os prisioneiros, incluindo Hale e Ramsey, e os desertores que mataram seu irmão Dudley.
@@ -39,3 +41,5 @@
 - John Cobb: Segundo marido de Mollie Burkhart, parte branco e parte creek, com quem ela se casa em 1928
 - Fred Grove: Autor com sangue Osage que trabalhou com White em um livro sobre os assassinatos
 - Clyde Tolson: Diretor adjunto do FBI e companheiro de longa data de Hoover 
+---
+[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
