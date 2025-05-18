@@ -1,6 +1,6 @@
 # Resumo: Capítulo 22 - Terras fantasmas
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 21](assassinos_da_lua_das_flores_chapter_21_resumo.md) | [Indice](README.md) | [Capítulo 23 →](assassinos_da_lua_das_flores_chapter_23_resumo.md)
 
 ## Principais acontecimentos:
 - O capítulo avança para o presente, mostrando como o tempo transformou a região dos Osage, com o fim do boom do petróleo, o desaparecimento das cidades prósperas e o declínio econômico.
@@ -62,4 +62,4 @@
 - Tornou-se "paranoica" segundo relatos, mudando frequentemente de endereço e telefone
 - Demonstrou pouco interesse em ver Ernest após sua libertação 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 21](assassinos_da_lua_das_flores_chapter_21_resumo.md) | [Indice](README.md) | [Capítulo 23 →](assassinos_da_lua_das_flores_chapter_23_resumo.md)

@@ -1,6 +1,6 @@
 # Resumo: Capítulo 21 - A Estufa
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 20](assassinos_da_lua_das_flores_chapter_20_resumo.md) | [Indice](README.md) | [Capítulo 22 →](assassinos_da_lua_das_flores_chapter_22_resumo.md)
 
 ## Principais acontecimentos:
 - Tom White administra a penitenciária de Leavenworth, apelidada de "Estufa" devido às temperaturas extremas que chegavam a 46°C no verão.
@@ -42,4 +42,4 @@
 - Fred Grove: Autor com sangue Osage que trabalhou com White em um livro sobre os assassinatos
 - Clyde Tolson: Diretor adjunto do FBI e companheiro de longa data de Hoover 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 20](assassinos_da_lua_das_flores_chapter_20_resumo.md) | [Indice](README.md) | [Capítulo 22 →](assassinos_da_lua_das_flores_chapter_22_resumo.md)

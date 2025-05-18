@@ -1,6 +1,6 @@
 # Resumo: Capítulo 10 - Eliminar o impossível
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 9](assassinos_da_lua_das_flores_chapter_09_resumo.md) | [Indice](README.md) | [Capítulo 11 →](assassinos_da_lua_das_flores_chapter_11_resumo.md)
 
 ## Principais acontecimentos:
 - Os agentes da equipe de Tom White chegam ao condado de Osage disfarçados: dois como criadores de gado do Texas, um como corretor de seguros e John Wren como curandeiro indígena.
@@ -48,4 +48,4 @@
 - Amigo de Rose Osage e outros suspeitos
 - Havia fugido do condado após agredir uma autoridade da Lei Seca 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 9](assassinos_da_lua_das_flores_chapter_09_resumo.md) | [Indice](README.md) | [Capítulo 11 →](assassinos_da_lua_das_flores_chapter_11_resumo.md)

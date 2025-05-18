@@ -1,6 +1,6 @@
 # Resumo: Capítulo 17 - O artista do gatilho, o arrombador de cofres e o dinamitador
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 16](assassinos_da_lua_das_flores_chapter_16_resumo.md) | [Indice](README.md) | [Capítulo 18 →](assassinos_da_lua_das_flores_chapter_18_resumo.md)
 
 ## Principais acontecimentos:
 - No verão de 1925, Tom White garante a Hoover que reunirá provas suficientes para incriminar Hale e seus cúmplices.
@@ -40,4 +40,4 @@
 
 - Curley Johnson: Comparsa do assaltante Blackie Thompson, que segundo Gregg sabia tudo sobre a explosão que matou Smith. Morreu depois de tomar uma bebida envenenada. 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 16](assassinos_da_lua_das_flores_chapter_16_resumo.md) | [Indice](README.md) | [Capítulo 18 →](assassinos_da_lua_das_flores_chapter_18_resumo.md)

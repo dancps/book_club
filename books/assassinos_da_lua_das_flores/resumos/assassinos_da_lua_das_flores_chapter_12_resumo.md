@@ -1,6 +1,6 @@
 # Resumo: Capítulo 12 - Um deserto de espelhos
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 11](assassinos_da_lua_das_flores_chapter_11_resumo.md) | [Indice](README.md) | [Capítulo 13 →](assassinos_da_lua_das_flores_chapter_13_resumo.md)
 
 ## Principais acontecimentos:
 - Tom White começa a suspeitar que há um espião entre seus investigadores depois que um advogado local demonstra conhecer detalhes internos do caso.
@@ -33,4 +33,4 @@
 - Capturado pelos agentes após cometer um assalto em Tulsa 
 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 11](assassinos_da_lua_das_flores_chapter_11_resumo.md) | [Indice](README.md) | [Capítulo 13 →](assassinos_da_lua_das_flores_chapter_13_resumo.md)

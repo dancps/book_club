@@ -1,6 +1,6 @@
 # Resumo: Capítulo 11 - O terceiro homem
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 10](assassinos_da_lua_das_flores_chapter_10_resumo.md) | [Indice](README.md) | [Capítulo 12 →](assassinos_da_lua_das_flores_chapter_12_resumo.md)
 
 ## Principais acontecimentos:
 - J. Edgar Hoover pressiona Tom White por atualizações frequentes sobre o caso.
@@ -36,4 +36,4 @@
 - Foi interrogada pessoalmente por Hoover em Washington
 - Segundo um médico, "percebe coisas que escapam à observação da pessoa comum" 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 10](assassinos_da_lua_das_flores_chapter_10_resumo.md) | [Indice](README.md) | [Capítulo 12 →](assassinos_da_lua_das_flores_chapter_12_resumo.md)

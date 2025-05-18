@@ -1,6 +1,6 @@
 # Resumo: Capítulo 8 - O Departamento da Amoralidade
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 7](assassinos_da_lua_das_flores_chapter_07_resumo.md) | [Indice](README.md) | [Capítulo 9 →](assassinos_da_lua_das_flores_chapter_09_resumo.md)
 
 ## Principais acontecimentos:
 - Em 1925, Tom White, agente especial encarregado da unidade de campo do Bureau of Investigation em Houston, é convocado para uma reunião urgente em Washington com J. Edgar Hoover.
@@ -47,4 +47,4 @@
 - Concluiu que uma força policial nacional era necessária, mas precisava ser reformulada
 - Nomeou Hoover como diretor interino do Bureau 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 7](assassinos_da_lua_das_flores_chapter_07_resumo.md) | [Indice](README.md) | [Capítulo 9 →](assassinos_da_lua_das_flores_chapter_09_resumo.md)

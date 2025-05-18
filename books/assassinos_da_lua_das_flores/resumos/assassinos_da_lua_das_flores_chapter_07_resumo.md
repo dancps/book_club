@@ -1,6 +1,6 @@
 # Resumo: Capítulo 7 - Criatura das trevas
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 6](assassinos_da_lua_das_flores_chapter_06_resumo.md) | [Indice](README.md) | [Capítulo 8 →](assassinos_da_lua_das_flores_chapter_08_resumo.md)
 
 ## Principais acontecimentos:
 - Em fevereiro de 1923, o corpo de Henry Roan, um osage de 40 anos, é encontrado em seu carro com um tiro na cabeça.
@@ -60,4 +60,4 @@
 - Identificado por seu dente de ouro
 - Morto enquanto tentava roubar uma loja 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 6](assassinos_da_lua_das_flores_chapter_06_resumo.md) | [Indice](README.md) | [Capítulo 8 →](assassinos_da_lua_das_flores_chapter_08_resumo.md)

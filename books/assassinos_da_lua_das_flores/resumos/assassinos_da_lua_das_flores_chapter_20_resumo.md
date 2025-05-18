@@ -1,6 +1,6 @@
 # Resumo: Capítulo 20 - E que Deus os ajude!
 
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 19](assassinos_da_lua_das_flores_chapter_19_resumo.md) | [Indice](README.md) | [Capítulo 21 →](assassinos_da_lua_das_flores_chapter_21_resumo.md)
 
 ## Principais acontecimentos:
 - Em julho de 1926, inicia-se o julgamento de Hale e Ramsey pelo assassinato de Henry Roan no tribunal de Guthrie.
@@ -44,4 +44,4 @@
 ## Novos personagens:
 Não são introduzidos novos personagens significativos neste capítulo. O foco está nos julgamentos e nas consequências dos crimes, com os personagens já conhecidos. 
 ---
-[← Capítulo X](assassinos_da_lua_das_flores_chapter_0X_resumo.md) | [Indice](README.md) | [Capítulo Y →](assassinos_da_lua_das_flores_chapter_0Y_resumo.md)
+[← Capítulo 19](assassinos_da_lua_das_flores_chapter_19_resumo.md) | [Indice](README.md) | [Capítulo 21 →](assassinos_da_lua_das_flores_chapter_21_resumo.md)
