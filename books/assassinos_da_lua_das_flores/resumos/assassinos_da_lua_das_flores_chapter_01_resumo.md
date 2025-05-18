@@ -1,5 +1,7 @@
 # Resumo: Capítulo 1 - O desaparecimento
 
+[← Indice](README.md) | [Capítulo 2 →](assassinos_da_lua_das_flores_chapter_02_resumo.md)
+
 ## Principais acontecimentos:
 - Em maio de 1921, Mollie Burkhart percebe o desaparecimento de sua irmã Anna Brown, que estava ausente há três dias.
 - Contextualização dos Osages como a "população mais rica do mundo" devido à descoberta de petróleo em suas terras e aos royalties pagos por sua exploração.
@@ -59,3 +61,7 @@
 ### Scott Mathis
 - Proprietário da Big Hill Trading Company
 - Administrador dos negócios financeiros de Anna 
+
+---
+
+[← Voltar para índice de resumos](README.md) | [Capítulo 2 →](assassinos_da_lua_das_flores_chapter_02_resumo.md) 

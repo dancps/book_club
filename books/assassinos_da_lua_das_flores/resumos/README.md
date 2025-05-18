@@ -1,5 +1,7 @@
 # Resumos: Assassinos da Lua das Flores
 
+[← Voltar para página do livro](../README.md)
+
 Esta pasta contém resumos capítulo por capítulo do livro "Assassinos da Lua das Flores" de David Grann.
 
 Cada resumo está estruturado em três seções principais:

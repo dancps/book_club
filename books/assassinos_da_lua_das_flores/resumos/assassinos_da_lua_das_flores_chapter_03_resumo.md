@@ -1,5 +1,7 @@
 # Resumo: Capítulo 3 - O Rei das colinas Osage
 
+[← Capítulo 2](assassinos_da_lua_das_flores_chapter_02_resumo.md) | [Indice](README.md) | [Capítulo 4 →](assassinos_da_lua_das_flores_chapter_04_resumo.md)
+
 ## Principais acontecimentos:
 - Os assassinatos de Anna Brown e Charles Whitehorn causam comoção na reserva.
 - Mollie assume a responsabilidade de buscar justiça para sua irmã Anna junto às autoridades.
@@ -40,3 +42,6 @@
 
 ### Dick Gregg e Frank "Jelly" Nash
 - Membros da gangue de Al Spencer, considerados entre os criminosos mais temidos da época 
+---
+
+[← Capítulo 2](assassinos_da_lua_das_flores_chapter_02_resumo.md) | [Indice](README.md) | [Capítulo 4 →](assassinos_da_lua_das_flores_chapter_04_resumo.md)

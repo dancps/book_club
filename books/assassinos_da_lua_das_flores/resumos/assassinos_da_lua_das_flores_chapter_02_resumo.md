@@ -1,5 +1,7 @@
 # Resumo: Capítulo 2 - Morte natural ou assassinato?
 
+[← Capítulo 1](assassinos_da_lua_das_flores_chapter_01_resumo.md) | [Indice](README.md) | [Capítulo 3 →](assassinos_da_lua_das_flores_chapter_03_resumo.md)
+
 ## Principais acontecimentos:
 - Um grupo de inquérito é enviado à ravina onde o corpo de Anna Brown foi encontrado.
 - Os irmãos Shoun (James e David), médicos que atendiam à família de Mollie, realizam a autópsia de Anna.
@@ -40,3 +42,7 @@
 ### Kelsie Morrison
 - Fabricante de bebidas clandestinas 
 - Mencionado como alguém para quem o xerife Freas fazia vista grossa 
+
+---
+
+[← Capítulo 1](assassinos_da_lua_das_flores_chapter_01_resumo.md) | [Indice](README.md) | [Capítulo 3 →](assassinos_da_lua_das_flores_chapter_03_resumo.md) 

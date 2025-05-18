@@ -1,5 +1,7 @@
 # Assassinos da Lua das Flores
 
+[← Voltar para página principal](../../README.md)
+
 ## Sobre o livro
 
 "Assassinos da Lua das Flores" é um livro de não-ficção escrito por David Grann que narra a história real dos assassinatos da nação Osage na década de 1920. Após a descoberta de petróleo em suas terras, os membros da tribo Osage tornaram-se extremamente ricos. No entanto, muitos deles começaram a morrer em circunstâncias misteriosas, levando a uma das primeiras grandes investigações do recém-formado FBI sob a direção de J. Edgar Hoover.
